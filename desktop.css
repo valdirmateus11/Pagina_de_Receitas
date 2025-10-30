@@ -1,0 +1,21 @@
+@media screen and (min-width: 700px){
+    body{
+    background-color: hsl(30, 54%, 90%);
+    padding: 35px;
+    }
+    .desktop{
+        display: block;
+        
+    }
+    .mobile{
+        display: none;
+    }
+    main{
+        border-radius: 20px;
+        width: 60%;
+    }
+    img{
+        border-radius: 25px;
+    }
+    
+}
